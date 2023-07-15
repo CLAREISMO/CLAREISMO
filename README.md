@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Claudia Reyes 👨🏻‍💻
 
 <!--
 **CLAREISMO/CLAREISMO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 I'm an electronic engineer who loves her work in the area of Data Science and ML. I deeply believe that education is the most powerful weapon of transformation. My greatest dream is that all women and vulnerable communities have access to training that allows them to enhance their virtues, raise their spirits, and make their own dreams come true.
+
+<p align="center" width="300">
+   <img align="center" width="200" src="https://giphy.com/gifs/content-jasper-ai-5k5vZwRFZR5aZeniqb"
+   <h3 align="center">
+</p>
 
 
 ## 🌐 Socials:
