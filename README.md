@@ -40,6 +40,7 @@ I'm an electronic engineer who loves her work in the area of Data Science and ML
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://giphy.com/gifs/content-jasper-ai-5k5vZwRFZR5aZeniqb"  width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CLAREISMO&icon=0&color=0)](https://visitcount.itsvg.in)
