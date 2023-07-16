@@ -32,8 +32,7 @@ I'm an electronic engineer who loves her work in the area of Data Science and ML
 
 ![https://www.kaggle.com/clareismo](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{https://www.kaggle.com/clareismo})
 
-![default version](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{clareismo}/{part})
-![light version](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{clareismo}/{part}/light)
+
 
 
 
