@@ -1,4 +1,4 @@
-#  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="48px"> Hi there I'm Claudia Reyes 💪
+#  Hi there I'm Claudia Reyes 💪
 
 <!--
 **CLAREISMO/CLAREISMO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me 👩‍💻 <img src="https://tenor.com/es/view/diegodrawsart-women-and-girls-in-science-day-science-scientist-gif-24767287" width="24px">:
+# <img src="https://tenor.com/es/view/diegodrawsart-women-and-girls-in-science-day-science-scientist-gif-24767287" width="24px"> 💫 About Me 👩‍💻 :
 
 I'm an electronic engineer who loves her work in the area of Data Science and ML. I deeply believe that education 👩‍🏫 is the most powerful weapon of transformation. My greatest dream is that all women and vulnerable communities have access to training that allows them to enhance their virtues, raise their spirits, and make their own dreams come true 🔥.
 
