@@ -27,6 +27,7 @@ I'm an electronic engineer who loves her work in the area of Data Science and ML
 
 
 
+![DreamShaper_v7_Hyperrealistic_artificial_intelligence_and_mach_31](https://github.com/CLAREISMO/CLAREISMO/assets/63759427/9759893e-b5a5-405e-8a02-15b2ce8eb0c2)
 
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Socials:
