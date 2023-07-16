@@ -40,7 +40,7 @@ I'm an electronic engineer who loves her work in the area of Data Science and ML
 
 ### Simple Status
 
-![clareismo](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{clareismo})
+![clareismo](https://road-to-kaggle-grandmaster.vercel.app/api/simple/clareismo)
 
 
 
