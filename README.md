@@ -1,4 +1,4 @@
-#  Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">  I'm Claudia Reyes <img src="https://media.tenor.com/iOVgZCkqQ_UAAAAj/robot-dancing-o2.gif" width="50px">💪
+#  Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">  I'm Claudia Reyes <img src="https://media.tenor.com/iOVgZCkqQ_UAAAAj/robot-dancing-o2.gif" width="50px"> <img src="https://media.tenor.com/ucfXyWYYpLMAAAAj/o2-bubl.gif" width="50px"><img src="https://media.tenor.com/A8O7Qj5KEroAAAAi/robot-dancing-gif.gif" width="50px">💪
 
 <!--
 **CLAREISMO/CLAREISMO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # <img src="https://media.tenor.com/zY5olcaT1T0AAAAi/diegodrawsart-women-and-girls-in-science.gif" width="50px">  About Me 👩‍💻 💫 :
 
-I'm an electronic engineer who loves her work in the area of Data Science and ML. I deeply believe that education 👩‍🏫 is the most powerful weapon of transformation. My greatest dream is that all women and vulnerable communities have access to training that allows them to enhance their virtues, raise their spirits, and make their own dreams come true <img src="https://media.tenor.com/ucfXyWYYpLMAAAAj/o2-bubl.gif" width="50px"> 🔥.
+I'm an electronic engineer who loves her work in the area of Data Science and ML. I deeply believe that education 👩‍🏫 is the most powerful weapon of transformation. My greatest dream is that all women and vulnerable communities have access to training that allows them to enhance their virtues, raise their spirits, and make their own dreams come true 🔥.
 
 
 ![DreamShaper_v7_Hyperrealistic_artificial_intelligence_and_mach_31](https://github.com/CLAREISMO/CLAREISMO/assets/63759427/9759893e-b5a5-405e-8a02-15b2ce8eb0c2)
