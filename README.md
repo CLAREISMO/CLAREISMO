@@ -1,4 +1,4 @@
-#  Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">  I'm Claudia Reyes <img src="https://media.tenor.com/iOVgZCkqQ_UAAAAj/robot-dancing-o2.gif" width="50px"> <img src="https://media.tenor.com/ucfXyWYYpLMAAAAj/o2-bubl.gif" width="60px"><img src="https://media.tenor.com/A8O7Qj5KEroAAAAi/robot-dancing-gif.gif" width="60px">💪
+#  Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">  I'm Claudia Reyes  <img src="https://media.tenor.com/ucfXyWYYpLMAAAAj/o2-bubl.gif" width="60px"><img src="https://media.tenor.com/A8O7Qj5KEroAAAAi/robot-dancing-gif.gif" width="60px">
 
 <!--
 **CLAREISMO/CLAREISMO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
