@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <img src="https://media.tenor.com/lzRQjjSJ1UgAAAAj/diegodrawsart-women-and-girls-in-science.gif" width="50px">  About Me 👩‍💻 💫 :
+## <img src="https://media.tenor.com/lzRQjjSJ1UgAAAAj/diegodrawsart-women-and-girls-in-science.gif" width="70px">  About Me 👩‍💻 💫 :
 
 I'm an electronic engineer who loves her work in the area of Data Science and ML. I deeply believe that education 👩‍🏫 is the most powerful weapon of transformation. My greatest dream is that all women and vulnerable communities have access to training that allows them to enhance their virtues, raise their spirits, and make their own dreams come true 🔥.
 
