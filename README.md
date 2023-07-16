@@ -25,6 +25,13 @@ I'm an electronic engineer who loves her work in the area of Data Science and ML
 </p>
 
 
+<br />
+
+  <img align="right" alt="GIF" src="https://giphy.com/gifs/content-jasper-ai-5k5vZwRFZR5aZeniqb![image](https://github.com/CLAREISMO/CLAREISMO/assets/63759427/4e6fb525-c627-4a37-8b72-33055c8ede80)
+" />
+  
+<br />
+
 
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Socials:
