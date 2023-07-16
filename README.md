@@ -38,6 +38,14 @@ I'm an electronic engineer who loves her work in the area of Data Science and ML
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsubinium%2Fkaggle-badge&count_bg=%23DDAA17&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 ![subinium](https://road-to-kaggle-grandmaster.vercel.app/api/simple/subinium)
 
+### Simple Status
+
+- Change the `{your_id}` value to your Kaggle's username.
+
+```
+![clareismo](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{clareismo})
+```
+
 
 
 
