@@ -43,6 +43,12 @@ I'm an electronic engineer who loves her work in the area of Data Science and ML
 ![clareismo](https://road-to-kaggle-grandmaster.vercel.app/api/simple/clareismo)
 
 ![dolylupec](https://road-to-kaggle-grandmaster.vercel.app/api/simple/dolylupec)
+![subinium](https://road-to-kaggle-grandmaster.vercel.app/api/simple/subinium)
+
+![ttagu99](https://road-to-kaggle-grandmaster.vercel.app/api/simple/ttagu99)
+
+![adldotori](https://road-to-kaggle-grandmaster.vercel.app/api/simple/adldotori)
+
 
 
 
