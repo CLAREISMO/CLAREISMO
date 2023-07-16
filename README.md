@@ -59,6 +59,15 @@ I'm an electronic engineer who loves her work in the area of Data Science and ML
 ![](https://github-profile-trophy.vercel.app/?username=CLAREISMO&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 
+### Spotify Playing 🎧
+
+[![Spotify](https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U?si=449869463e8542b4)]
+
+---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
+
 
 
 
