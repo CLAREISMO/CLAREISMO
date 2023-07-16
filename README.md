@@ -1,4 +1,4 @@
-# Hi there 👋 <https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="24px"> I'm Claudia Reyes 💪
+# <https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="24px">Hi there I'm Claudia Reyes 💪
 
 <!--
 **CLAREISMO/CLAREISMO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
