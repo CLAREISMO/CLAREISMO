@@ -26,8 +26,7 @@ I'm an electronic engineer who loves her work in the area of Data Science and ML
 
 
 
-<img align="right" alt="GIF" src="https://giphy.com/gifs/content-jasper-ai-5k5vZwRFZR5aZeniqb![image](https://github.com/CLAREISMO/CLAREISMO/assets/63759427/56820205-74fc-4def-933d-ac9109be3715)
-" />
+<img align="right" alt="GIF" src="https://giphy.com/gifs/content-jasper-ai-5k5vZwRFZR5aZeniqb" />
 
 
 
