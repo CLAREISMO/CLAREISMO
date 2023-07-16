@@ -40,8 +40,6 @@ I'm an electronic engineer who loves her work in the area of Data Science and ML
 
 ### Simple Status
 
-- Change the `{your_id}` value to your Kaggle's username.
-
 ![clareismo](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{clareismo})
 
 
