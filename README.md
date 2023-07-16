@@ -35,7 +35,7 @@ I'm an electronic engineer who loves her work in the area of Data Science and ML
 
 ## Kaggle Portfolio:
 
-<a href="https://www.kaggle.com/clareismo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="50" width="25" /></a> ![dolylupec](https://road-to-kaggle-grandmaster.vercel.app/api/simple/dolylupec) ![ttagu99](https://road-to-kaggle-grandmaster.vercel.app/api/simple/ttagu99)
+<a href="https://www.kaggle.com/clareismo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="60" width="40" /></a> ![dolylupec](https://road-to-kaggle-grandmaster.vercel.app/api/simple/dolylupec) ![ttagu99](https://road-to-kaggle-grandmaster.vercel.app/api/simple/ttagu99)
 
 
 
