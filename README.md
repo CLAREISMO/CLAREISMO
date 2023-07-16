@@ -64,6 +64,8 @@ I'm an electronic engineer who loves her work in the area of Data Science and ML
 
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://5791a588253146e4be8fbeaefbd19293)](https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U?si=2d62c3d654624543)
+
 
 ---
 
