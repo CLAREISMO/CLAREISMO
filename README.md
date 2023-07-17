@@ -58,6 +58,8 @@ I'm an electronic engineer who loves her work in the area of Data Science and ML
 
 
 ## <img src="https://media.tenor.com/AUVAJ7QyBWUAAAAi/dm4uz3-foekoe.gif" width="50px"> GitHub Trophies 
+![](https://github-profile-trophy.vercel.app/?username=CLAREISMO&theme=dracula&no-frame=false&no-bg=false&margin-w=4)![image](https://github.com/CLAREISMO/CLAREISMO/assets/63759427/60a3a4a9-c0e0-44a5-9175-c570506b9eed)
+
 
 
 
