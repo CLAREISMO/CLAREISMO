@@ -57,7 +57,7 @@ I'm an electronic engineer who loves her work in the area of Data Science and ML
 
 
 
-## 🏆<img src="https://media.tenor.com/AUVAJ7QyBWUAAAAi/dm4uz3-foekoe.gif" width="50px"> GitHub Trophies 
+## <img src="https://media.tenor.com/AUVAJ7QyBWUAAAAi/dm4uz3-foekoe.gif" width="50px"> GitHub Trophies 
 
 
 
