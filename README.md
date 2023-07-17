@@ -45,18 +45,13 @@ I'm an electronic engineer who loves her work in the area of Data Science and ML
 
 
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CLAREISMO&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CLAREISMO&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CLAREISMO&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CLAREISMO&theme=dracula&no-frame=false&no-bg=false&margin-w=4)![image](https://github.com/CLAREISMO/CLAREISMO/assets/63759427/36bc9312-37ae-40b5-b273-ed36a5ce2034)
-
-
-
-
-
+![](https://github-profile-trophy.vercel.app/?username=CLAREISMO&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 
 
