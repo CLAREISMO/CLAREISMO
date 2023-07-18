@@ -60,7 +60,7 @@ Here are some ideas to get you started:
     <img width=250 height=100 align="center" alt="calreismo" src="https://github-readme-streak-stats.herokuapp.com/?user=clareismo&theme=buefy&hide_border=false" />
   </a>
   <a href="https://github.com/clareismo">
-    <img width=250 height=170 align="center" alt="calreismo" src="https:/github-readme-stats.vercel.app/api/top-langs/?username=clareismo&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <img width=250 height=170 align="center" alt="calreismo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clareismo&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   </a>
 
 xxxxxxxxxxxxxxxxxxxxxx
@@ -73,9 +73,8 @@ xxxxxxxxxxxxxxxxxxxxxx
 ![Prudhvi's github stats](https://github-readme-stats.vercel.app/api?username=PrudhviGNV&show_icons=true&hide_border=true)
 
 
+
 ## <img src="https://media.tenor.com/dvt1cZ4_nw4AAAAi/stickman-dancing.gif" width="70px"> Spotify Playing 
-
-
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
