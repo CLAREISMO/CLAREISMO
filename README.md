@@ -44,10 +44,10 @@ Here are some ideas to get you started:
     <img width=300 height=130 align="center" alt="clareismo" src="https://github-readme-stats.vercel.app/api?username=clareismo&theme=buefy&hide_border=false&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/clareismo">
-    <img width=300 height=130 align="center" alt="calreismo" src="https://github-readme-streak-stats.herokuapp.com/?user=clareismo&theme=buefy&hide_border=false" />
+    <img width=320 height=130 align="center" alt="calreismo" src="https://github-readme-streak-stats.herokuapp.com/?user=clareismo&theme=buefy&hide_border=false" />
   </a>
   <a href="https://github.com/clareismo">
-    <img width=300 height=130 align="center" alt="calreismo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clareismo&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <img width=330 height=130 align="center" alt="calreismo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clareismo&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   </a>
 
 
