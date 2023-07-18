@@ -50,23 +50,13 @@ Here are some ideas to get you started:
 
 <div>
 #####################
-
-![Prudhvi's github stats](https://github-readme-stats.vercel.app/api?username=PrudhviGNV&show_icons=true&hide_border=true)
-
-:pushpin: Star and Fork this [README](https://github.com/PrudhviGNV/PrudhviGNV) :pencil:
-
-XXXXXX
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px"> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CLAREISMO&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CLAREISMO&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CLAREISMO&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-
-## <img src="https://media.tenor.com/xYMLEZlJCXcAAAAi/trophy-uno.gif" width="50px"> GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CLAREISMO&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
+#####
+![Prudhvi's github stats](https://github-readme-stats.vercel.app/api?username=PrudhviGNV&show_icons=true&hide_border=true)
 
 
 ## <img src="https://media.tenor.com/dvt1cZ4_nw4AAAAi/stickman-dancing.gif" width="70px"> Spotify Playing 
