@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 I'm an electronic engineer who loves her work in the area of Data Science and ML 💫. I deeply believe that education 👩‍🏫 is the most powerful weapon of transformation. My greatest dream is that all women and vulnerable communities have access to training that allows them to enhance their virtues, raise their spirits, and make their own dreams come true 🔥.
 
+![Este1](https://github.com/CLAREISMO/CLAREISMO/assets/63759427/5353a363-8c6a-47b0-8019-d6a20f02e140)
 
 ![banner55](https://github.com/CLAREISMO/CLAREISMO/assets/63759427/628f1000-f87c-4a94-8fdb-29da8feb63c8)
 
