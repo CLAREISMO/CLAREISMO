@@ -51,17 +51,14 @@ Here are some ideas to get you started:
 <div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px"> GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CLAREISMO&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CLAREISMO&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CLAREISMO&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CLAREISMO&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CLAREISMO&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CLAREISMO&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
+  <a href="https://github.com/clareismo">
+    <img width=300 height=170 align="center" alt="clareismo" src="https://github-readme-stats.vercel.app/api?username=clareismo&theme=buefy&hide_border=false&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/clareismo">
+    <img align="center" alt="calreismo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepyn0&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
 
 
 xxxxxxxxxxxxxxxxxxxxxx
