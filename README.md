@@ -59,7 +59,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/clareismo">
     <img width=400 height=170 align="center" alt="calreismo" src="https://github-readme-streak-stats.herokuapp.com/?user=clareismo&theme=buefy&hide_border=false" />
   </a>
-
+  <a href="https://github.com/clareismo">
+    <img width=400 height=170 align="center" alt="calreismo" src="https:/github-readme-stats.vercel.app/api/top-langs/?username=clareismo&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  </a>
 
 xxxxxxxxxxxxxxxxxxxxxx
 
