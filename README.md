@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 🎧 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 📊 🏆 I’m looking for help with ...
@@ -56,7 +56,7 @@ I'm an electronic engineer who loves her work in the area of Data Science and ML
 
 
 
-## Spotify Playing 🎧
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> Spotify Playing 
 
 
 
