@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 🎧 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 📊 🏆 I’m looking for help with ...
+- 🤔 📊 🏆 🌐 Socials: I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 👌 Pronouns: ...
@@ -17,52 +17,19 @@ Here are some ideas to get you started:
 
 ## <img src="https://media.tenor.com/A8O7Qj5KEroAAAAi/robot-dancing-gif.gif" width="60px"> About Me 👩‍💻:
 
-I'm an electronic engineer who loves her work in the area of Data Science and ML 💫. I deeply believe that education 👩‍🏫 is the most powerful weapon of transformation. My greatest dream is that all women and vulnerable communities have access to training that allows them to enhance their virtues, raise their spirits, and make their own dreams come true 🔥.
+**I'm an electronic engineer who loves her work in the area of Data Science and ML 💫. I deeply believe that education 👩‍🏫 is the most powerful weapon of transformation. My greatest dream is that all women and vulnerable communities have access to training that allows them to enhance their virtues, raise their spirits, and make their own dreams come true 🔥.**
 
 ![Este1](https://github.com/CLAREISMO/CLAREISMO/assets/63759427/5353a363-8c6a-47b0-8019-d6a20f02e140)
 
 
-
-###############
-
-## 🌐 Socials: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Socials:
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudia-isabel-reyes-moreno-30a244106/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/GdgCloudSabana) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://YouTube.com/@GDG.Cloud.Sabana.Cundinamarca) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com//gdg_cloud.sabana.cundinamarca/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21130225/clareismo)
-
-############################
-
-<details>
-<summary> <b>📫 Contact me </b></summary>
-<p align="center">
-<a href="https://www.linkedin.com/in/alexander-pinches-52b099165/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Claudia-Reyes-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://www.kaggle.com/giraffey"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Giraffey-blue?style=for-the-badge&logo=kaggle"></a>
-<a href="mailto:alex_pinches@btinternet.com"><img alt="Email" src="https://img.shields.io/badge/Email-Alexander%20John%20Pinches-blue?style=for-the-badge&logo=gmail"></a>
-</p>
-</details>
-
-
-#################################
-
-<details>
-<summary> <b>📫 Contact me </b></summary>
-<p align="center">
-<a href="https://www.linkedin.com/in/claudia-isabel-reyes-moreno-30a244106"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alexander%20John%20Pinches-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://www.kaggle.com/clareismo"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Giraffey-blue?style=for-the-badge&logo=kaggle"></a>
-<a href="mailto:alex_pinches@btinternet.com"><img alt="Email" src="https://img.shields.io/badge/Email-Alexander%20John%20Pinches-blue?style=for-the-badge&logo=gmail"></a>
-</p>
-</details>
-
-
-
-
 
 
 ##  Kaggle Portfolio:
 
 <a href="https://www.kaggle.com/clareismo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="60" width="40" /></a> ![dolylupec](https://road-to-kaggle-grandmaster.vercel.app/api/simple/dolylupec) ![ttagu99](https://road-to-kaggle-grandmaster.vercel.app/api/simple/ttagu99)
-
-
-
 
 
 
