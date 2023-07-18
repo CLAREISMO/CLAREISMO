@@ -54,10 +54,10 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
   <a href="https://github.com/clareismo">
-    <img width=300 height=170 align="center" alt="clareismo" src="https://github-readme-stats.vercel.app/api?username=clareismo&theme=buefy&hide_border=false&include_all_commits=true&count_private=true" />
+    <img width=400 height=170 align="center" alt="clareismo" src="https://github-readme-stats.vercel.app/api?username=clareismo&theme=buefy&hide_border=false&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/clareismo">
-    <img align="center" alt="calreismo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepyn0&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img align="center" alt="calreismo" src="https://github-readme-streak-stats.herokuapp.com/?user=clareismo&theme=buefy&hide_border=false" />
   </a>
 
 
