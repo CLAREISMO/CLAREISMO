@@ -22,12 +22,6 @@ I'm an electronic engineer who loves her work in the area of Data Science and ML
 ![Este1](https://github.com/CLAREISMO/CLAREISMO/assets/63759427/5353a363-8c6a-47b0-8019-d6a20f02e140)
 
 
-
-
-![DreamShaper_v7_Hyperrealistic_artificial_intelligence_and_mach_31](https://github.com/CLAREISMO/CLAREISMO/assets/63759427/9759893e-b5a5-405e-8a02-15b2ce8eb0c2)
-
-
-
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com//gdg_cloud.sabana.cundinamarca/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/claudia-isabel-reyes-moreno-30a244106/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21130225/clareismo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/GdgCloudSabana) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@GDG.Cloud.Sabana.Cundinamarca) 
 
