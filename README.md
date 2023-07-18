@@ -56,13 +56,11 @@ I'm an electronic engineer who loves her work in the area of Data Science and ML
 
 
 
-## <img src="https://media.tenor.com/dvt1cZ4_nw4AAAAi/stickman-dancing.gif" width="50px"> Spotify Playing 
+## <img src="https://media.tenor.com/dvt1cZ4_nw4AAAAi/stickman-dancing.gif" width="70px"> Spotify Playing 
 
 
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
-
-[![Spotify](https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U?si=2d62c3d654624543)]
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U?si=2d62c3d654624543)
 --
