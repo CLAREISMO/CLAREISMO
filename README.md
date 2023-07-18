@@ -20,6 +20,13 @@ Here are some ideas to get you started:
 I'm an electronic engineer who loves her work in the area of Data Science and ML 💫. I deeply believe that education 👩‍🏫 is the most powerful weapon of transformation. My greatest dream is that all women and vulnerable communities have access to training that allows them to enhance their virtues, raise their spirits, and make their own dreams come true 🔥.
 
 
+![banner55](https://github.com/CLAREISMO/CLAREISMO/assets/63759427/628f1000-f87c-4a94-8fdb-29da8feb63c8)
+
+
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+![Uploading DreamShaper_v7_artificial_intelligence_and_machine_learning_hy_03.gif…]()
+
+
 ![DreamShaper_v7_Hyperrealistic_artificial_intelligence_and_mach_31](https://github.com/CLAREISMO/CLAREISMO/assets/63759427/9759893e-b5a5-405e-8a02-15b2ce8eb0c2)
 
 
