@@ -21,7 +21,7 @@ I'm an electronic engineer who loves her work in the area of Data Science and ML
 
 ![Este1](https://github.com/CLAREISMO/CLAREISMO/assets/63759427/5353a363-8c6a-47b0-8019-d6a20f02e140)
 
-![banner55](https://github.com/CLAREISMO/CLAREISMO/assets/63759427/628f1000-f87c-4a94-8fdb-29da8feb63c8)
+
 
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
