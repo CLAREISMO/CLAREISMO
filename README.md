@@ -72,6 +72,8 @@ Here are some ideas to get you started:
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U?si=2d62c3d654624543)
 --
 
+[![](https://visitcount.itsvg.in/api?id=CLAREISMO&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 
