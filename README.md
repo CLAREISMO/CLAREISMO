@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 **In addition to my technical experience, I also value collaboration and teamwork. I believe in the importance of diversity and inclusion in the field of technology, and I strive to create work environments where all voices are heard and valued. 🌈🤗 I am always looking for opportunities to learn and grow in this exciting field. I am excited to be part of the revolution of artificial intelligence and machine learning and to contribute to a future where these technologies drive well-being and prosperity for all. 🚀🌟**
 
-**Let's connect and explore together the unlimited potential of emerging technologies to create a better world, let's write history! 🌐📚👏**
+**Let's connect and explore together the unlimited potential of emerging technologies to create a better world, let's write history! 🌐📚👏 **
 
 ![Este1](https://github.com/CLAREISMO/CLAREISMO/assets/63759427/5353a363-8c6a-47b0-8019-d6a20f02e140)
 
