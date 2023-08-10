@@ -17,7 +17,14 @@ Here are some ideas to get you started:
 
 ## <img src="https://media.tenor.com/A8O7Qj5KEroAAAAi/robot-dancing-gif.gif" width="60px"> About Me 👩‍💻:
 
-**I'm an electronic engineer who loves her work in the area of Data Science and ML 💫. I deeply believe that education 👩‍🏫 is the most powerful weapon of transformation. My greatest dream is that all women and vulnerable communities have access to training that allows them to enhance their virtues, raise their spirits, and make their own dreams come true 🔥.**
+
+**Passionate about emerging technologies, my goal is to drive the transformative potential of machine learning and artificial intelligence in today's world. 🌟 I firmly believe in the power of these technologies to improve people's quality of life and address the most pressing challenges in our society. 🔥 With a strong background in data science and machine learning, I have gained experience in applying advanced algorithms and models to extract valuable insights from data. 💡**
+
+**My focus is on using these technologies to generate innovative and efficient solutions in various sectors, from healthcare to environmental sustainability. 🌍 My passion for artificial intelligence goes beyond the technical aspect. I am driven by the desire to create a positive impact on society, using these technologies to address social, ethical, and legal challenges. 👥🌱 I believe in the importance of responsible and ethical implementation of artificial intelligence, ensuring equity, transparency, and privacy in every project I participate in. 🤝🔒**
+
+**In addition to my technical experience, I also value collaboration and teamwork. I believe in the importance of diversity and inclusion in the field of technology, and I strive to create work environments where all voices are heard and valued. 🌈🤗 I am always looking for opportunities to learn and grow in this exciting field. I am excited to be part of the revolution of artificial intelligence and machine learning and to contribute to a future where these technologies drive well-being and prosperity for all. 🚀🌟**
+
+**Let's connect and explore together the unlimited potential of emerging technologies to create a better world, let's write history! 🌐📚👏**
 
 ![Este1](https://github.com/CLAREISMO/CLAREISMO/assets/63759427/5353a363-8c6a-47b0-8019-d6a20f02e140)
 
